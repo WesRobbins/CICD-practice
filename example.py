@@ -1,4 +1,4 @@
-""" Wes Example.py file"
+""" Wes Example.py file """
 
 def add(a, b):
     return a + b
